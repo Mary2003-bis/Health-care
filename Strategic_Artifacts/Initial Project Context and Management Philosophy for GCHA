@@ -11,6 +11,7 @@ Project Context: GCHA Initiative
 Our Mission
 
 The GCHA project aims to mitigate these risks by:
+
 Implementing a robust analytics engine for accuracy.
 Empowering stakeholders (Nurses, CEOs, Researchers) with reliable information.
 Focusing on administrative performance quality.
@@ -18,3 +19,7 @@ Focusing on administrative performance quality.
 Conclusion
 
 We recognize that in healthcare, software must be sustainable and secure to prevent future technical debt.
+
+## Current Risks
+* Invisibility
+* Conformity
